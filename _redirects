@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+http://sad-pasteur-53a19f.netlify.com/* http://kitty.cx/:splat 301!
